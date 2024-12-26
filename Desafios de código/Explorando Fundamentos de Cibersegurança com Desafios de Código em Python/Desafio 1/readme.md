@@ -1,7 +1,7 @@
 <h1>
-    <a href="https://web.dio.me/track/bootcamp-squadio/">
-     <img align="center" width="100px" src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png"></a>
-    <span> A Aventura do Explorador</span>
+    <a href="https://web.dio.me/track/santander-ciberseguranca-2024/">
+     <img align="center" width="100px" src="https://assets.dio.me/mXe9Ce9ajHOrzggSjtSD7fubZXjG3zEZs_X8r9xJ9jg/f:webp/h:120/q:80/L3RyYWNrcy9mODRlOWQxZS04ZWQ1LTQ2ZjctYjlhMC1kY2Y1YTAzOTZmMzMucG5n"></a>
+    <span> Verificação de Integridade de Arquivos com Hashes</span>
 </h1>
 
 # Desafio
