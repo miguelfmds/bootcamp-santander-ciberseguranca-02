@@ -17,3 +17,4 @@
 - URL para clonagem: http://www.facebook.com
 
 ### Resultados obtidos:
+<img src="./passwd.png" alt="Resultado obtido">
